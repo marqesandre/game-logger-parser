@@ -25,3 +25,7 @@
     - `limit`: Número de jogos por página (padrão: 10).
 
 - `GET /stats`: Retorna estatísticas gerais dos jogos.
+
+## Documentação
+
+A documentação da API está disponível em [http://localhost:3000/api-docs](http://localhost:3000/api-docs).
