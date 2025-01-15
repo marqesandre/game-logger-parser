@@ -1,0 +1,33 @@
+{
+  "name": "game-logger-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/api.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marqesandre/game-logger-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marqesandre/game-logger-parser/issues"
+  },
+  "homepage": "https://github.com/marqesandre/game-logger-parser#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}
